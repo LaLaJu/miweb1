@@ -2,3 +2,5 @@ una cabrita
 un buy 
 una oveja
 Cambio de rama
+
+Dejo de alimentar los animales porque el clima no permite el ingreso al lugar
